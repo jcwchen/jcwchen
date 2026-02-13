@@ -2,8 +2,6 @@
 
 🔭 I’m currently working on ONNX/ONNX Runtime/PyTorch.
 
-![Jacky's stats](https://github-readme-stats.vercel.app/api?username=jcwchen&include_all_commits=true&count_private=true&bg_color=30,5EE5FF,904e95&title_color=fff&text_color=322CFF&hide=stars,contribs)
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
